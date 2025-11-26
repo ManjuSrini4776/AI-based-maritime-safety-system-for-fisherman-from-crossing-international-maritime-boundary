@@ -1,0 +1,6 @@
+geopandas
+shapely
+pandas
+numpy
+scikit-learn
+streamlit
